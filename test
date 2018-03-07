@@ -15,11 +15,11 @@
 </style>
  <script type="text/javascript">
  function fnText(){
- document.write("자바스크립트")
- alert("얼라잇");
+ document.write("자바스크립트환영!")
+ alert("자바스크립트환영!!");
  }
 </script>
-<title>어서오세요</title>
+<title>자바스크립트실습</title>
 </head>
 <body>
  <header>
