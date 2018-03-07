@@ -1,0 +1,32 @@
+<!doctype html> <!--     index.html       -->
+<html>
+<head>
+<meta http-equiv="content-Type"cotent="text/html; charset=utf-8"/>
+<meta name="viewport"content="width=device-width, initial-scale=1"/>
+<style>
+ body {font-Family: Verdana, sans-serif; font-size:0.8em;}
+ header, nav, section, article, footer
+ {border:1px solid gray; margin:5px; padding:8px;}
+ seciton#displayArea{height:210px;}
+ nav ul {margin:0; padding:0;}
+ nav ul li {display:inline; margin:5px;}
+ a {text-decoration:none;}
+ #id_form{width:100px; height:14px; color:red;}
+</style>
+ <script type="text/javascript">
+ function fnText(){
+ document.write("자바스크립트")
+ alert("얼라잇");
+ }
+</script>
+<title>어서오세요</title>
+</head>
+<body>
+ <header>
+  <h2>자바스크립트 실행합니다</2>
+  <sctipt>fnTest();</script>
+ </section>
+ <footer>
+  <p>＆copy; 2018 Made by korean. All rights reserved.</p></footer>
+</body> 
+</html>
